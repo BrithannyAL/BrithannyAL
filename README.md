@@ -1,15 +1,16 @@
 <div align="center">
 <h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
-<a href="https://linkedin.com/in/abdoachhoubi" target="_blank">
+<a href="" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+  
 <br />
 <br />
-Soy estudiante de ingeniería en computación apasionada especialmente por el desarrollo web y la IA. Me gusta investigar y aprender cosas nuevas. Amo lo que hago y siempre pongo todo mi empeño en ello.
+I am a computer engineering student, passionate especially about web development and AI. I enjoy researching and learning new things. I love what I do and always put my best effort into it.
 
 <br />
 <br />
-Amo el café, el chocolate, las almendras y los libros. Soy fánatica de la fantasía y la ficción y siempre que preguntes estaré leyendo un libro.
+I love coffee, chocolate, almonds, and books. I'm a big fan of fantasy and fiction, and if you ask, I'll always be reading a book.
 
 <div/>
 
