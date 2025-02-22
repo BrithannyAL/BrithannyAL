@@ -14,6 +14,11 @@ I love coffee, chocolate, almonds, and books. I'm a big fan of fantasy and ficti
 
 <div/>
 
+<br />
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoachhoubi&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
+<br />
+<br />
 <!--
 **BrithannyAL/BrithannyAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
