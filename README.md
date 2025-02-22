@@ -16,7 +16,7 @@ I love coffee, chocolate, almonds, and books. I'm a big fan of fantasy and ficti
 
 <br />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoachhoubi&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrithannyAL&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
 <br />
 <br />
 <!--
