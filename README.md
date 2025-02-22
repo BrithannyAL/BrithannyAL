@@ -5,24 +5,12 @@
 </a>
 <br />
 <br />
-<img src="https://www.codewars.com/users/Achhoubi%20Alpha/badges/large" alt="Achhoubi Alpha Codewars Badge">
-<br />
-<br />
-
-I'm a Full Stack Developer with 2+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
-<br />
-
-I'm currently based in **[Ben Guerir, Morocco.](https://www.google.com/maps/place/Ben+Guerir/@32.2307977,-7.9817398,13z/data=!3m1!4b1!4m5!3m4!1s0xdaf7a781193e37b:0x600a48af566b132a!8m2!3d32.2359364!4d-7.9538378)**
+Soy estudiante de ingeniería en computación apasionada especialmente por el desarrollo web y la IA. Me gusta investigar y aprender cosas nuevas. Amo lo que hago y siempre pongo todo mi empeño en ello.
 
 <br />
-I love learning new techs and using new tools. I also love drinking Atay (Tea in Ar - Morocco) while coding.
 <br />
-<br />
+Amo el café, el chocolate, las almendras y los libros. Soy fánatica de la fantasía y la ficción y siempre que preguntes estaré leyendo un libro.
 
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br />
-Ask me anything **[here](https://github.com/abdoachhoubi/abdoachhoubi/issues/new)** or <a href="mailto:abdo.achhoubi3@gmail.com"><b>send me an email</b></a>.
-<br />
-<br />
 <div/>
 
 <!--
